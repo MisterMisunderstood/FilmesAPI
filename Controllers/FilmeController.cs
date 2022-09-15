@@ -23,7 +23,7 @@ namespace FilmesAPI.Controllers
         }
 
         [HttpPost]
-        public IActionResult AdicionaFilme([FromBody]Filme filme)
+        public IActionResult AdicionaFilme([FromBody] CreateFilmeDTO filmeDto)
         {
             // filme.Id = id++;
             // filmes.Add(filme);
