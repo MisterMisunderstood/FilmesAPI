@@ -1,3 +1,3 @@
 # FilmesAPI
 
-## Um modelo de Webapi como exercício de curso API Rest com .NET
+## Um modelo de Web API como exercício de curso API Rest com .NET
