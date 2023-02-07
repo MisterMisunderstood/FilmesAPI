@@ -8,6 +8,31 @@
 
 Com foco no Back-End, essa Web API é feita em .Net 6 (dotNet) e C# (C-Sharp), permitindo requisitar ou enviar informações para o server e a utilização de DTO's (objeto de transferência de dados). Basicamente trata da construção base de uma Web API, passando por assuntos relevantes como POO (programação orientada a objetos), os principais verbos HTTP, conectar uma base de dados utilizando o Entity Framework Core, Migrations entre outros, além do uso de ferramentas como o Postman. No meu caso, trabalhei na construção da API usando VsCode no Linux e EF-Core.
 
+## Dividido em 6 tópicos: 
+1. Entendendo o conceito
+Preparando o ambiente: configurações Iniciais
+O que é uma API
+2. Iniciando o projeto .NET 6
+Criando um projeto .NET 6
+Recebendo os dados de um filme
+Validando parâmetros recebidos
+3. Consultando e paginando
+Retornando filmes da API
+Recuperando filmes por ID
+Paginando resultados
+Padronizando o retorno
+4. Utilizando banco de dados
+Conectando ao banco de dados
+Gerando a primeira migration
+Realizando operações no banco
+Utilizando DTOs
+5. Atualizando e removendo
+Atualizando dados com PUT
+Atualizando dados com PATCH
+Deletando filmes
+6. Documentando com Swagger
+Documentando a API
+
 <div align="center">
 <img src="https://user-images.githubusercontent.com/83375136/213885531-82af0f3d-a136-44c4-a5f6-8e980b8c0b45.png"/>
 </div>
@@ -18,3 +43,4 @@ Com foco no Back-End, essa Web API é feita em .Net 6 (dotNet) e C# (C-Sharp), p
 <div align="center">
 Você pode conferir o curso <a href="https://cursos.alura.com.br/course/api-rest-net-5-operacoes-verbos-http">clicando aqui</a>
 </div>
+
