@@ -10,28 +10,28 @@ Com foco no Back-End, essa Web API é feita em .Net 6 (dotNet) e C# (C-Sharp), p
 
 ## Dividido em 6 tópicos: 
 1. Entendendo o conceito
-Preparando o ambiente: configurações Iniciais
-O que é uma API
+* Preparando o ambiente: configurações Iniciais
+* O que é uma API
 2. Iniciando o projeto .NET 6
-Criando um projeto .NET 6
-Recebendo os dados de um filme
-Validando parâmetros recebidos
+* Criando um projeto .NET 6
+* Recebendo os dados de um filme
+* Validando parâmetros recebidos
 3. Consultando e paginando
-Retornando filmes da API
-Recuperando filmes por ID
-Paginando resultados
-Padronizando o retorno
+* Retornando filmes da API
+* Recuperando filmes por ID
+* Paginando resultados
+* Padronizando o retorno
 4. Utilizando banco de dados
-Conectando ao banco de dados
-Gerando a primeira migration
-Realizando operações no banco
-Utilizando DTOs
+* Conectando ao banco de dados
+* Gerando a primeira migration
+* Realizando operações no banco
+* Utilizando DTOs
 5. Atualizando e removendo
-Atualizando dados com PUT
-Atualizando dados com PATCH
-Deletando filmes
+* Atualizando dados com PUT
+* Atualizando dados com PATCH
+* Deletando filmes
 6. Documentando com Swagger
-Documentando a API
+* Documentando a API
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/83375136/213885531-82af0f3d-a136-44c4-a5f6-8e980b8c0b45.png"/>
